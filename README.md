@@ -1,18 +1,4 @@
-__version__ = (0, 0, 7)
-#
-#
-# _           _            _ _
-# | |         | |          (_) |
-# | |     ___ | |_ ___  ___ _| | __
-# | |    / _ \| __/ _ \/ __| | |/ /
-# | |___| (_) | || (_) \__ \ |   <
-# \_____/\___/ \__\___/|___/_|_|\_\
-#
-#              © Copyright 2024
-#
-# 🔒 Licensed under the GNU AGPLv3
-# 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-
+__version__ = (0,0,1) 
 # meta developer: @eliwwzz
 from .. import loader, utils
 import asyncio

@@ -1,5 +1,5 @@
 __version__ = (0,0,1) 
-# meta developer: @eliwwzz
+# meta developer: @eliwwzz @GamesAomame
 from .. import loader, utils
 import asyncio
 

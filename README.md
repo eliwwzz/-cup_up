@@ -14,14 +14,11 @@ __version__ = (0, 0, 7)
 # 🌐 https://www.gnu.org/licenses/agpl-3.0.html
 
 # meta developer: @eliwwzz
-# meta banner: https://i.imgur.com/awltLuz.jpeg
-
-
 from .. import loader, utils
 import asyncio
 
 
-class DrochBotMod(loader.Module):
+class CupMeterBot(loader.Module):
     """Автоматизирует работу с @CupMeterBot (автоматическая фарма и др.)"""
 
     strings = {"name": "CupMeter"}
